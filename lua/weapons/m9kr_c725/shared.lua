@@ -25,7 +25,7 @@ SWEP.ViewModelFOV			= 70
 SWEP.ViewModelFlip			= false
 SWEP.ViewModel				= "models/weapons/v_m9kr_c725.mdl"
 SWEP.WorldModel				= "models/weapons/w_m9kr_c725.mdl"
-SWEP.Base					= "carby_gun_base"
+SWEP.Base					= "m9kr_gun_base"
 SWEP.ShellModel				= "models/shells/12g_buck.mdl"
 SWEP.MuzzleFlashType		= "shotgun"
 SWEP.WMCorrectedMuzzle		= true
@@ -71,7 +71,7 @@ SWEP.Primary.NumShots		= 8
 SWEP.Primary.Damage			= 10
 SWEP.Primary.Spread			= 0.0396
 SWEP.Primary.IronAccuracy	= 0.0396
-SWEP.PreserveSpreadValues 	= true 	-- Set to true to prevent spread values since we use carby_gun_base
+SWEP.PreserveSpreadValues 	= true 	-- Set to true to prevent spread values since we use m9kr_gun_base
 SWEP.HasChamber				= false   -- Enable +1 in chamber mechanic
 SWEP.ChamberRound			= false   -- Allow chambering rounds for +1 capacity
 

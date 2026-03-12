@@ -23,7 +23,7 @@ SWEP.ViewModelFOV			= 80
 SWEP.ViewModelFlip			= false
 SWEP.ViewModel				= "models/weapons/v_m9kr_marlin1894_c.mdl"
 SWEP.WorldModel				= "models/weapons/w_m9kr_marlin1894_c.mdl"
-SWEP.Base				    = "carby_shotty_base"
+SWEP.Base				    = "m9kr_shotty_base"
 SWEP.ShellModel				= "models/shells/357mag.mdl"
 SWEP.MuzzleFlashType		= "revolver"
 SWEP.Spawnable				= true
@@ -52,7 +52,7 @@ SWEP.Primary.KickDown		= 0.225
 SWEP.Primary.KickHorizontal	= 0.225
 SWEP.Primary.Ammo			= "ar2"
 
--- Lever-action reload configuration (carby_shotty_base)
+-- Lever-action reload configuration (m9kr_shotty_base)
 SWEP.ShellsPerLoad 				= 1      -- Load 1 round per cycle
 SWEP.ShellTime 					= 0.345  -- Time between shell insertions
 SWEP.HasChamber					= true   -- Enable +1 in chamber mechanic

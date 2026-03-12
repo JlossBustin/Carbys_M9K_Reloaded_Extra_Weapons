@@ -25,7 +25,7 @@ SWEP.ViewModelFOV			= 70
 SWEP.ViewModelFlip			= false
 SWEP.ViewModel				= "models/weapons/v_m9kr_saiga_x1s.mdl"
 SWEP.WorldModel				= "models/weapons/w_m9kr_saiga_x1s.mdl"
-SWEP.Base					= "carby_gun_base"
+SWEP.Base					= "m9kr_gun_base"
 SWEP.ShellModel				= "models/shells/12g_buck.mdl"
 SWEP.MuzzleFlashType		= "silenced"
 SWEP.Spawnable				= true
@@ -61,7 +61,7 @@ SWEP.Primary.NumShots		= 8
 SWEP.Primary.Damage			= 10
 SWEP.Primary.Spread			= 0.045
 SWEP.Primary.IronAccuracy	= 0.045
-SWEP.PreserveSpreadValues 	= true 	-- Set to true to prevent spread values since we use carby_gun_base
+SWEP.PreserveSpreadValues 	= true 	-- Set to true to prevent spread values since we use m9kr_gun_base
 
 SWEP.SightsPos = Vector(-3.155, -4, 0.008)
 SWEP.SightsAng = Vector(0.315, 0, 0)
