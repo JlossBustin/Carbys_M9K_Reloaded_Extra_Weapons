@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/Kar98/Kar_Lens_Diff"
+	"$no_draw" "0"
+}

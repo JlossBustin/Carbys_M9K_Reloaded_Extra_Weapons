@@ -1,0 +1,19 @@
+//shrimp was here
+
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/weapons/v_models/Eagle Cannon/TroyGrip_BaseColor.vtf"
+	"$bumpmap"			"models/weapons/v_models/Eagle Cannon/TroyGrip_Normal_OpenGL.vtf"
+	"$phongexponenttexture"		"models/weapons/v_models/Eagle Cannon/TroyGrip_exponent.vtf"
+	"$phong"		"1"
+	"$phongboost"	"5"
+	"$phongalbedotint"		"1"
+	"$phongfresnelranges"	"[0.6 0.6 1]"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"15"
+	"$rimmask"	"0"
+	"$rimlightboost"	"5"
+	"$envmap"					"env_cubemap"
+	"$envmaptint"				"[.25 .25 .25]"
+}
+

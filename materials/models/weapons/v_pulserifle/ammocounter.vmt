@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_pulserifle/ammocounter"
+	$selfillum 1
+}

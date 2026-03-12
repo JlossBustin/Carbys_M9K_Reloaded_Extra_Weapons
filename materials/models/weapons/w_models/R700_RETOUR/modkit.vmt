@@ -1,0 +1,9 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/R700_RETOUR/modkit"
+        "$bumpmap"       "models/weapons/v_models/R700_RETOUR/modkit_norm"
+
+        "$envmap" 			"env_cubemap"
+	"$envmaptint" 			"[.007 .007 .007]"
+	
+}

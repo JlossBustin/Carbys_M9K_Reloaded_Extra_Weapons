@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	$basetexture				"models\weapons\cold_war_steyr_acr\acr_d"
+	$bumpmap					"models\weapons\cold_war_steyr_acr\acr_n"
+              "$phongexponenttexture"		"models\weapons\cold_war_steyr_acr\acr_s"
+              $phongwarptexture			"models\weapons\cold_war_steyr_acr\phongwarp_metal"
+                "$color2"					"[0.315 0.315 0.315]"
+        $normalmapalphaenvmapmask	"1"
+	$envmap						"models\weapons\orita_m1941_ww2\specularity_00"
+	$envmaptint					"[ .085 .085 .085 ]"		
+	$phong						1
+	$phongexponent				125.25
+	$phongboost					12.55
+	$phongfresnelranges             "[.3 4 5]"
+        $rimmask					"1"
+        $rimlightexponent			"75.5"	
+	$rimlight					"1"
+	$rimlightboost		"2.355"
+        $phongalbedotint			"1"
+        $phongalbedoboost "1.35"
+}

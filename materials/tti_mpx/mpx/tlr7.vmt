@@ -1,0 +1,18 @@
+VertexLitGeneric
+{
+	$basetexture "TTI_MPX\mpx\tlr7"
+	$bumpmap "TTI_MPX\mpx\NRM\tlr7_n"
+       "$phongexponenttexture"		"TTI_MPX\mpx\SPE\tlr7_m"
+        $color2 "[0.6 0.6 0.6]"
+        $phongexponent "30"
+       
+        $normalmapalphaenvmapmask   "1"
+        $envmaptint   "[0.1 0.1 0.1]"
+        $envmapfresnel "1" // Advanced envmap reflections
+ 
+        $phong  "1"
+        $phongboost  "1"      //tone down to decrease specular reflections
+        $phongfresnelranges     "[0.25 0.75 1.00]"
+        $phongalbedotint  "1"
+        $nocull  1
+}

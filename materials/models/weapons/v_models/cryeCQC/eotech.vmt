@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+    "$basetexture"                "models/weapons/V_models/CryeCQC/eotech"
+    "$bumpmap"                    "models/weapons/V_models/CryeCQC/eotech_bump"
+
+    "$phong"                      "1"
+    "$phongboost"                 "0.07"
+    "$phongexponent"              "18"
+    "$phongfresnelranges"         "[0.9 1 1.5]"
+    "$phongtint"                  "[0.78 0.75 0.70]"
+    "$phongalbedotint"            "1"
+
+    "$envmap"                     "env_cubemap"
+    "$envmaptint"                 "[0.03 0.03 0.03]"
+    "$envmapcontrast"             "1.1"
+    "$envmapsaturation"           "1"
+    "$basetexturealphaenvmapmask" "1"
+
+    "$rimlight"                   "1"
+    "$rimlightexponent"           "50"
+    "$rimlightboost"              "0.02"
+    "$rimmask"                    "1"
+
+    "$halflambert"                "1"
+    "$nocull"                     "1"
+}

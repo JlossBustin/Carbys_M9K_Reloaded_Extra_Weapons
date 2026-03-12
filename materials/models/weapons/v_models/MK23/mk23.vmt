@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture"                 	"models/weapons/v_models/mk23/mk23"
+	"$bumpmap"                     	"models/weapons/v_models/mk23/mk23_normal"
+	"$phongexponenttexture" 	"models/weapons/v_models/mk23/mk23_exponent"
+
+	"$envmap"			"env_cubemap"
+
+	"$nocull"			"1"
+
+	"$normalmapalphaenvmapmask"	"1"
+	"$normalmapalphaphongmask"    	"1"
+
+	"$envmaptint"			"[0.04 0.03 0.04]"
+	"$envmapfresnel"		"1"
+
+	"$phong"			"1"
+	"$phongboost"			"80"
+	"$phongfresnelranges"		"[0.5 0.65 1.4]"
+	"$phongalbedotint"		"1"
+
+	"$rimlight"			"1"
+	"$rimlightboost"		"3"
+	"$rimmask"			"1"
+}

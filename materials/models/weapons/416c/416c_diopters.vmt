@@ -1,0 +1,13 @@
+"VertexLitGeneric" 
+{
+	"$basetexture" 				"models\weapons\416C\416C_Diopter_Albedo"
+	"$bumpmap" 					"models\weapons\416C\416C_Diopter_Normal"
+	$phongexponenttexture		"models\weapons\416C\416C_Diopter_Exponent"
+	
+	$phong 1
+	$phongboost 4
+	$phongfresnelranges "[4 2 2.5]"
+	
+	$envmap env_cubemap
+	$envmaptint "[.015 .015 .015]"
+}

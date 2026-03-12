@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "mw3\scopes\vz01_golf3_v2\vz01_golf3_v2_rgb"
+    "$bumpmap" "mw3\scopes\vz01_golf3_v2\vz01_golf3_v2_n"
+    "$phongexponenttexture" "mw3\scopes\vz01_golf3_v2\vz01_golf3_v2_e"
+
+    "$color2" "[.2.2.2]"
+    "$blendtintbybasealpha" "1"
+
+    "$phong" "1"
+    "$phongboost" "1.25"
+    "$phongalbedotint" "1"
+    "$phongalbedoboost" "10"
+    "$phongfresnelranges" "[1 0.1 0.1]"
+
+    "$rimlight" "0"
+    "$rimlightexponent" "100"
+    "$rimmask" "1"
+    "$rimlightboost" "0.5"
+
+    "$normalmapalphaenvmapmask" "1"
+
+    "$envmap" "envmaps\specularity_00"
+    "$envmaptint" "[0.102 0.102 0.102]"
+}

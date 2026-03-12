@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\tfa_doi_Wpns\g43\weapon_g43_worn_dm"
+	"$bumpmap"					"models\tfa_doi_Wpns\g43\weapon_g43_worn_nm"
+	"$phongexponenttexture" 	"models\tfa_doi_Wpns\g43\weapon_g43_worn_ex"
+
+	"$color2" 					"[.6 .6 .6]"
+
+	"$normalmapalphaenvmapmask" "1"
+	"$normalmapalphaphongmask"  "1"
+	
+	"$phong"                    "1"
+	"$phongalbedotint" 			"1"
+	"$phongboost"               "8"
+	"$phongfresnelranges"       "[1 4 6]" 
+    "$phongalbedoboost"		   	"3"
+
+	"$envmap"                   "env_cubemap"
+	"$envmaptint"               "[.1 .1 .1]"
+	
+	"$rimlight"					"1"
+	"$rimlightexponent"			"40"
+	"$rimlightboost"			"0.1"
+	"$rimmask"					"1"
+}

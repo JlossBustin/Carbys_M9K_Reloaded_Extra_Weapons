@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"TTI_MPX\mpx\v_mag"
+	"$bumpmap" 			"TTI_MPX\mpx\NRM\v_mag_n"
+	"$phongexponenttexture" 		"TTI_MPX\mpx\SPE\v_mag_m"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "20"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+}
+//Material setup by ShadowRUN ???.
+//You are NOT allowed to edit/modify/redistribute these materials without my explicit permission.

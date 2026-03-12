@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models/weapons/iso45/xmaterial_7448524b990a60d5_rgb"
+    "$bumpmap" "models/weapons/iso45/xmaterial_7448524b990a60d5_n"
+    "$phongexponenttexture" "models/weapons/iso45/xmaterial_7448524b990a60d5_e"
+
+    "$color2" "[ .5 .5 .5 ]"
+    "$blendtintbybasealpha" "1"
+
+    "$phong" "1"
+    "$phongboost" "1"
+    "$phongfresnelranges" "[1 0.5 0]"
+    "$phongalbedotint" "0"
+
+    //rimlight doesn't properly show in hlmv, make sure you're changing these values in game
+    "$rimlight" "1"
+    "$rimlightexponent" "100"
+    "$rimmask" "1"
+    "$rimlightboost" "1"
+
+    "$normalmapalphaenvmapmask" "1"
+    "$envmapfresnel" "1"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[ .035 .035 .035 ]"
+}

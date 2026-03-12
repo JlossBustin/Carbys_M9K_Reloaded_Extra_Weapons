@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+    "$basetexture"                        "models/weapons/v_models/P30L/Sights_Diffuse"
+    "$bumpmap"                            "models/weapons/v_models/P30L/Sights_Normal"
+    "$phongexponenttexture"        		"models/weapons/v_models/P30L/Sights_Exponent"    
+}

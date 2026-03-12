@@ -1,0 +1,16 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models/drgordon/weapons/bocw_xm16/fullauto_classic_muzzle_clip"
+	"$bumpmap"					"models/drgordon/weapons/bocw_xm16/fullauto_classic_muzzle_clip_n"
+
+	"$phong"	"1"
+	"$phongexponent"	"3"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.3"
+	"$phongfresnelranges" "[.3 1 7]"
+        "$phongdisablehalflambert"  "1"
+
+        "$halflambert"                 "0"
+        "$nodecal"                     "0"
+        "$ambientocclusion"         "1"
+}

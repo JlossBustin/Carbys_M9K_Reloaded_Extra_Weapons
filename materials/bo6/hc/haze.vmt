@@ -1,0 +1,10 @@
+"Vertexlitgeneric"
+{
+
+
+	"$baseTexture" "bo6/hc/haze"
+
+$additive 1
+	"$selfillum" "1"
+	"$nocull" "1"
+}

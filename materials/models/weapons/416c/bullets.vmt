@@ -1,0 +1,13 @@
+"VertexLitGeneric" 
+{
+	"$basetexture" 				"models\weapons\416C\shared_ammunition_albedo"
+	"$bumpmap" 					"models\weapons\416C\shared_ammunition_exponent"
+	$phongexponenttexture		"models\weapons\416C\shared_ammunition_normal"
+	
+	$phong 1
+	$phongboost 4
+	$phongfresnelranges "[4 2 2.5]"
+	
+	$envmap env_cubemap
+	$envmaptint "[.015 .015 .015]"
+}

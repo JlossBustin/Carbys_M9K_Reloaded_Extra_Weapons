@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"TTI_MPX\mpx\mc_adapt"
+	"$bumpmap"					"TTI_MPX\mpx\NRM\mc_adapt_n"
+	"$color2" "[0.59 0.59 0.59]"
+	"$phong"	"1"
+	"$phongexponent"	"6"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.5"
+	"$phongfresnelranges"	"[0.5 0.6 0.4]"		
+}

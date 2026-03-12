@@ -1,0 +1,11 @@
+"Vertexlitgeneric"
+{
+
+	"$baseTexture" "models\weapons\v_models\cz805\dot"
+	"$Detail" 		"models\weapons\v_models\cz805\dot"
+	"$DetailScale" 			  	"1"
+	"$DetailBlendFactor" 	  	"1.0"
+	"$DetailBlendMode" 		   	"5"
+	"$additive"				"1"
+	"$no_draw" "1"
+}

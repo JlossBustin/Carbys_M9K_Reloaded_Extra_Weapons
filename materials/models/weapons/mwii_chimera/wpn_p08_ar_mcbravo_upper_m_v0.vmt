@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models/weapons/mwii_chimera/wpn_p08_ar_mcbravo_upper_v0_rgb"
+    "$bumpmap" "models/weapons/mwii_chimera/wpn_p08_ar_mcbravo_upper_v0_n"
+    "$phongexponenttexture" "models/weapons/mwii_chimera/wpn_p08_ar_mcbravo_upper_v0_e"
+
+    "$color2" "[ .75 .75 .75 ]"
+    "$blendtintbybasealpha" "1"
+
+    "$phong" "1"
+    "$phongboost" "5"
+	"$phongexponent" "16"
+    "$phongfresnelranges" "[.78 .9 1]"
+    "$phongalbedotint" "1"
+
+    //rimlight doesn't properly show in hlmv, make sure you're changing these values in game
+    "$rimlight" "1"
+    "$rimlightexponent" "2"
+    "$rimmask" "1"
+    "$rimlightboost" "1.8"
+
+    "$normalmapalphaenvmapmask" "1"
+    "$envmapfresnel" "1"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[ .25 .25 .25 ]"
+}

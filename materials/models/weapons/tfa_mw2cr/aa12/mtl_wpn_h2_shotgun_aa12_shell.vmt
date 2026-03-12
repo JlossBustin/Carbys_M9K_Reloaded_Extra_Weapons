@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	$basetexture			"models/weapons/tfa_mw2cr/aa12/details_c"
+	$bumpmap				"models/weapons/tfa_mw2cr/aa12/details_n"
+	$phongexponenttexture	"models/weapons/tfa_mw2cr/aa12/details_s"
+
+	$phong	"1"
+	$phongboost	"15"
+	$phongfresnelranges	"[.2 .5 1]"
+
+	$rimlight	"1"
+	$rimmask	"1"
+	$rimlightboost	"1"
+	$rimlightexponent	"2"
+}

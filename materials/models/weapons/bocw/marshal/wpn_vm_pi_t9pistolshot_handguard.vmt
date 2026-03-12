@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/weapons/bocw/marshal/wpn_vm_pi_t9pistolshot_handguard_d"
+	"$bumpmap"			"models/weapons/bocw/marshal/wpn_vm_pi_t9pistolshot_handguard_n"
+	"$phongexponenttexture"		"models/weapons/bocw/marshal/wpn_vm_pi_t9pistolshot_handguard_e"
+
+	"$phong" 			"1"
+	"$phongboost" 			"1.5"
+	"$phongalbedoboost" 		"4"
+	"$phongfresnelranges" 		"[.15 .15 .15]"
+	"$phongalbedotint" 		"1"
+	"$phongdisablehalflambert" 	"1"
+	//"$phongwarptexture" 		"phongwarp_steel"
+
+	"$normalmapalphaenvmapmask" 	"1"	
+	"$basealphaenvmapmask"     	"1"
+
+	"$envmap" 			"env_cubemap"
+	"$envmapfresnel" 		"1"
+	"$envmaptint" 			"[.06 .06 .06]"
+	"$nocull"			"1"
+	}

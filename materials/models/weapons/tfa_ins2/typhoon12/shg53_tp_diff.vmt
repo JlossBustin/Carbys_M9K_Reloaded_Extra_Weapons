@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	$basetexture	"models/weapons/tfa_ins2/typhoon12/shg53_tp_diff"
+	$bumpmap	"models/weapons/tfa_ins2/typhoon12/shg53_tp_ddn"
+
+	$phong	"1"
+	$phongboost	"0.5"
+	$phongfresnelranges	"[.3 .5 1]"
+	$phongexponent	"20"
+}

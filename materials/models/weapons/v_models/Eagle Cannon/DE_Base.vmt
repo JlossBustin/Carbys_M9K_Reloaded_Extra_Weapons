@@ -1,0 +1,18 @@
+//shrimp was here
+
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/weapons/v_models/Eagle Cannon/DesertEagle_Painted_Black_BaseColor.vtf"
+	"$bumpmap"			"models/weapons/v_models/Eagle Cannon/DesertEagle_Painted_Black_normal.vtf"
+	"$phongexponenttexture"		"models/weapons/v_models/Eagle Cannon/DesertEagle_Painted_Black_exponent.vtf"
+	"$color2"		"[0.5 0.5 0.5]"
+	"$phong"		"1"
+	"$phongboost"	"5"
+	"$phongalbedotint"		"1"
+	"$phongfresnelranges"	"[0.45 0.6 1]"
+	"$rimlight"		"1"
+	"$rimlightexponent"		"5"
+	"$rimlightboost"	"1"
+	"$envmap"					"env_cubemap"
+	"$envmaptint"				"[1 1 1]"
+}

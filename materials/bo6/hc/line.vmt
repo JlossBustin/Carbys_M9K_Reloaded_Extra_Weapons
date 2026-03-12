@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "bo6/hc/line"
+	"$additive" "1"
+	"$selfillum" "1"
+	"$nocull" "1"
+}

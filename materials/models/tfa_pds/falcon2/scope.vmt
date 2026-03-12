@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/tfa_pds/falcon2/scope"
+	$bumpmap "null-bumpmap"
+	$phongexponenttexture "color/white"
+
+
+	$phong 	1
+	$basemapalphaphongmask 1
+	$phongboost		 "16"
+	$phongfresnelranges	 "[0.4 0.6 1.0]"
+	$phongexponent "64"
+	$phongalbedotint "1"
+}

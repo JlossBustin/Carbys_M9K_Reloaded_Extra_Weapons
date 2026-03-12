@@ -1,0 +1,32 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_pulserifle/pulserifle_mk2"
+	"$bumpmap" "models/weapons/v_pulserifle/pulserifle_mk2_normal"
+	$phongexponenttexture	"models/weapons/v_pulserifle/pulserifle_mk2_s"
+
+	$phong	"1"
+	$phongboost	"5"
+	$phongfresnelranges	"[.78 .9 1]"
+
+	// $detail "your/camo/here"
+	// $detailblendmode	"4"
+	// $detailscale	"1"
+
+	$envmap	"env_cubemap"
+	$envmaptint	"[.25 .25 .25]"
+	$normalmapalphaenvmapmask	"1"
+	$envmapfresnel	"1"
+
+	$rimlight	"1"
+	$rimmask	"1"
+	$rimlightboost	"1"
+	$rimlightexponent	"2"
+	
+	$emissiveBlendEnabled        "1"
+    $emissiveBlendTexture        "color/white"
+    $emissiveBlendBaseTexture    "models/weapons/v_pulserifle/pulserifle_mk2_emis"
+    $emissiveBlendFlowTexture    "color/white"
+    $emissiveBlendStrength        "0.5"
+    $emissiveBlendScrollVector    "[0 0]"
+    $emissiveBlendTint            "[1 1 1]"
+}

@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\weapons\v_models\9A91\Main body"
+    "$bumpmap" "models\weapons\v_models\9A91\Main body_n"
+    "$phongexponenttexture" "models\weapons\v_models\9A91\Main body_e"
+
+
+    	"$color2" "[0.7 0.7 0.7]"
+	"$nocull" "1"
+
+	"$phong"                      "1"
+	"$phongboost"                 "0.35"
+	"$phongexponent"		"55"
+	"$phongfresnelranges"         "[2 3 4]"
+	"$phongtint"		      "[1 0.9 0.9]"
+	"$phongalbedotint"            "1"
+	"$phongalbedoboost"           "145"
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+"$basetexture"                      "models/weapons/v_models/R5/sleeve_diffuse"
+"$bumpmap"                          "models/weapons/v_models/R5/sleeve_diffuse_normal"
+"$normalmapalphaenvmapmask"         "1"
+}

@@ -1,0 +1,38 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "bo7\puma\puma_iro_rgb"
+    "$bumpmap" "bo7\puma\puma_iro_n"
+    "$phongexponenttexture" "bo7\puma\puma_iro_e"
+
+    "$color2" "[ .5 .5 .5 ]"
+    "$blendtintbybasealpha" "1"
+
+    "$phong" "1"
+    "$phongboost" "1.5"
+    "$phongexponent" "15"
+    "$phongalbedotint" "1"
+    "$phongalbedoboost" "10"
+    "$phongfresnelranges" "[1 0.1 0]"
+
+    "$cloakPassEnabled" 		"1"
+
+    "$detail" "bo7\puma\specular"
+    "$detailscale" "1"        
+    "$detailblendfactor" "0.05" 
+
+    "$rimlight" "1"
+    "$rimlightexponent" "100"
+    "$rimmask" "1"
+    "$rimlightboost" "1"
+	
+	$emissiveblendenabled 1
+	$EmissiveBlendStrength 1	
+	$emissiveblendbasetexture "bo7\puma\iro_e"
+	$EmissiveBlendTexture         vgui\white
+	$EmissiveBlendFlowTexture     vgui\white
+	       
+    "$normalmapalphaenvmapmask" "1"
+
+    "$envmap" "bo7\puma\specular"
+    "$envmaptint" "[0.106 0.106 0.106]"
+}

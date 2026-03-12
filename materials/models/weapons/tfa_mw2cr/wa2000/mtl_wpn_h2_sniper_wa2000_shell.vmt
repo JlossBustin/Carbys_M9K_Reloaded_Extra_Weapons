@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	$basetexture			"models/weapons/tfa_mw2cr/wa2000/mag_c"
+	$bumpmap				"models/weapons/tfa_mw2cr/wa2000/mag_n"
+	$phongexponenttexture	"models/weapons/tfa_mw2cr/wa2000/mag_s"
+
+	$phong	"1"
+	$phongboost	"1"
+	$phongfresnelranges	"[.78 .9 1]"
+
+	$rimlight	"1"
+	$rimmask	"1"
+	$rimlightboost	"1"
+	$rimlightexponent	"2"
+}

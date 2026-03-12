@@ -1,0 +1,18 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "TTI_MPX\mpx\charge"
+	"$bumpmap" "TTI_MPX\mpx\charge_n"
+	"$envmap" "env_cubemap"
+	$color2 "[ .6 .6 .6 ]"
+	"$envmaptint" "[ .075 .075 .075 ]"
+	"$envmapfresnel" ".5"
+	"$basemapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongalbedotint" "1"
+
+	"$phongboost" "10"
+	"$phongexponent" "12"
+	"$phongfresnelranges" "[1 5 22.5]"
+	"$phongexponenttexture" "TTI_MPX\mpx\charge_e"
+}

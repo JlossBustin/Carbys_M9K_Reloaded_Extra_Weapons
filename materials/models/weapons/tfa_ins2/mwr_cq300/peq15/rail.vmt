@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	$basetexture	"models/weapons/tfa_ins2/mwr_cq300/peq15/rail_col"
+	$bumpmap		"models/weapons/tfa_ins2/mwr_cq300/peq15/rail_nor"
+
+	$phong	"1"
+	$phongboost	"4"
+	$phongfresnelranges	"[.55 .5 1]"
+	$phongexponent	"33"
+
+	$envmap	"env_cubemap"
+	$envmaptint	"[.5 .5 .5]"
+	$normalmapalphaenvmapmask	"1"
+}

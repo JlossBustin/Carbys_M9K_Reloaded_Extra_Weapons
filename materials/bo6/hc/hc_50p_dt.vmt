@@ -1,0 +1,47 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "bo6\hc\hc_50p_rgb"
+    "$bumpmap" "bo6\hc\hc_50p_n"
+    "$phongexponenttexture" "bo6\hc\hc_50p_e"
+
+    /////////////////
+    "$color2" "[0.6 0.6 0.6]"                                     //do not touch this
+    "$blendtintbybasealpha" "1"                             //do not touch this
+    /////////////////
+
+	"$phong" "1"
+	"$phongboost" "8"
+	"$phongexponent" "30"
+	"$phongfresnelranges" "[2 1.2 8]"
+	"$phongalbedotint" "1"
+	"$normalmapalphaenvmapmask" "1"
+
+	"$detail" "bo6\hc\specular"
+	"$detailscale" "1"
+	"$detailblendfactor" "0.05"
+
+	"$cloakPassEnabled" 		"1"
+	"$nocull" "1"
+
+    //rimlight doesn't properly show in hlmv, make sure you're changing these values in game
+	"$rimlight"	"1"
+	"$rimmask"	"1"
+	"$rimlightboost"	"1"
+	"$rimlightexponent"	"2"
+
+    "$envmap" "bo6\hc\specular"
+    "$envmaptint" "[0.553 0.427 0.212]"                 
+
+    //remove this if not using MWB
+    "Proxies"
+    {
+        "MwEnvMapTint"
+        {
+            "specularity" "0.5"             //0.25, 0.5, 0.75, 1
+            "envmap"	"bo6\hc\specular"
+            "color"	"[0.425 0.3 0.08]"
+            "min" "0"
+            "max" "0.6"                       //change this if too bright in game
+        }
+    }
+}

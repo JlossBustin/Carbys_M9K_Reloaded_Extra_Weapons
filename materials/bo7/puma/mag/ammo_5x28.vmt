@@ -1,0 +1,25 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "bo7\puma\mag\ammo_5x28_rgb"
+    "$bumpmap" "bo7\puma\mag\ammo_5x28_n"
+    "$phongexponenttexture" "bo7\puma\mag\ammo_5x28_e"
+
+    "$color2" "[0 0 0]"
+    "$blendtintbybasealpha" "1"
+
+    "$phong" "1"
+    "$phongboost" "1"
+    "$phongalbedotint" "1"
+    "$phongalbedoboost" "10"
+    "$phongfresnelranges" "[1 0.1 0]"
+
+    "$rimlight" "1"
+    "$rimlightexponent" "100"
+    "$rimmask" "1"
+    "$rimlightboost" "1"
+       
+    "$normalmapalphaenvmapmask" "1"
+
+    "$envmap" "envmaps\specularity_25"
+    "$envmaptint" "[0.425 0.3 0.08]"
+}

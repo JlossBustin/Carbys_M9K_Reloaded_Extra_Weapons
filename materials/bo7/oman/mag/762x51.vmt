@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "bo7\oman\mag\762x51_rgb"
+    "$bumpmap" "bo7\oman\mag\762x51_n"
+    "$phongexponenttexture" "bo7\oman\mag\762x51_e"
+
+    "$color2" "[.5.5.5]"
+    "$blendtintbybasealpha" "1"
+
+    "$phong" "1"
+    "$phongboost" "2"
+    "$phongalbedotint" "1"
+    "$phongalbedoboost" "5"
+    "$phongfresnelranges" "[1 0.1 0]"
+
+    "$rimlight" "1"
+    "$rimlightexponent" "100"
+    "$rimmask" "1"
+    "$rimlightboost" "0.35"
+       
+    "$normalmapalphaenvmapmask" "1"
+}

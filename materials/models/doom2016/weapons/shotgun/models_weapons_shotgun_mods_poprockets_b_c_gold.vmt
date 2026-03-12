@@ -1,0 +1,23 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/doom2016/weapons/shotgun/gold"
+"$bumpmap" "models/doom2016/weapons/shotgun/models_weapons_shotgun_mods_poprockets_b_n"
+	
+	"$envmap" "models/doom2016/weapons/shotgun/general_gold"
+	// "$envmap" "models/doom2016/weapons/shotgun/cubemap_gold001.hdr" 
+	
+
+	"$nocull" "1"
+	"$envmaptint" "[1 .95 .3]"
+	"$envmapcontrast" "1"
+	"$envmapsaturation" "0.5"
+	
+	"$phong" "1"
+	"$phongexponent" "60"
+	"$phongboost" "3.5"
+	"$phongfresnelranges"	"[.5 1 4]"
+	
+	"$rimlight" "1"
+	"$rimlightexponent" "4"
+	"$rimlightboost" "1.5"
+}

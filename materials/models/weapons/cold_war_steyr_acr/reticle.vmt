@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	$basetexture				"models\weapons\cold_war_steyr_acr\acr_d"
+                "$color2"					"[0 0 0]"
+}

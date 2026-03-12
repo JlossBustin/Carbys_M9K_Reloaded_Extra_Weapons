@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models/doom2016/weapons/shotgun/models_weapons_shotgun_mods_triple_burst_c"
+"$bumpmap" "models/doom2016/weapons/shotgun/models_weapons_shotgun_mods_triple_burst_n"
+
+"$nocull" "1"
+"$phong" "1"
+ "$phongexponent" "12"
+ "$phongboost" "1"
+ "$phongfresnelranges" "[0.25 0.15 0.05]"
+
+"$rimlight" "1"
+ "$rimlightexponent" "0.5"
+ "$rimlightboost" ".1"
+}

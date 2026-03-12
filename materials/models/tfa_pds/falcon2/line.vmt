@@ -1,0 +1,28 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/tfa_pds/falcon2/line"
+	"$additive" "1"
+	"$selfillum" "1"
+//	$translucent 1
+//	$alpha 0.5
+
+	$intensity 0
+	$alpha $intensity
+ 
+	Proxies
+	{
+		EntityRandom
+		{
+			resultVar $intensity
+		}
+		Sine
+		{
+			"resultVar"	"$alpha"
+			"sineperiod"	0.08
+			"sinemin"		0.5
+			"sinemax"	1.1
+			"timeoffset"	0
+		}
+	}
+
+}

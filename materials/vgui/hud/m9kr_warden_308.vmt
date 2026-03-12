@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/hud/m9kr_warden_308"
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

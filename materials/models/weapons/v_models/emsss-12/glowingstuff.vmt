@@ -1,0 +1,6 @@
+"UnlitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/emsss-12/glowingstuff_test"
+	"$additive" "1"
+	"$translucent" "1"
+}

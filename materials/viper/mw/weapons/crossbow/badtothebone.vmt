@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	$basetexture	"viper/mw/weapons/crossbow/badtothebone_c"
+	$bumpmap	"viper/mw/weapons/crossbow/badtothebone_n"
+	$phongexponenttexture	"viper/mw/weapons/crossbow/badtothebone_m"
+	$color2	"[ .3 .3 .3 ]" //this controls the colors of the metallic part
+	$blendtintbybasealpha	"1" //this allows us to control the metallic parts
+
+	$phong	"1"
+	$phongboost	"3"
+	$phongalbedotint	"1"
+	"$phongfresnelranges"	    "[ .1 .5 1 ]" //x = front facing, y = in between, z = parallel facing
+
+	$envmap	"env_cubemap"
+	$basemapalphaenvmapmask	"1"
+	$envmapfresnel	"1"
+	$envmaptint	"[ 1 1 1 ]"
+	"Proxies"
+	{
+		"MwEnvMapTint"
+		{
+			"min" "0"
+			"max" "1"
+		}
+	}
+}

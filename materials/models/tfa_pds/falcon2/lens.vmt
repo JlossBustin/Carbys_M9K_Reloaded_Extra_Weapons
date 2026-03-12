@@ -1,0 +1,27 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/tfa_pds/falcon2/lens"
+	"$bumpmap" "models/tfa_pds/falcon2/lens_n"
+
+	//$translucent 1
+	"$alphatest" "1"
+	"$additive" "1"
+	"$halflambert" "1"
+
+	$phong 1
+	$phongBoost "1"
+	"$phongexponenttexture" "models/tfa_pds/falcon2/lens_g"
+	$phongTint "[1 .2 0]"
+	"$phongfresnelranges" "[6 4 4]"
+	"$phongalbedotint" "1"
+	"$phongalbedoboost" "30"
+	"$color" "[ 0.8 0.6 0.6 ]"
+
+	$envmap env_cubemap
+	$envmapfresnel 1
+	$envmaptint "[.15 .07 .07]"
+}
+
+
+
+

@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/V_models/hmg/1"
+	"$bumpmap" "models/weapons/V_models/hmg/1_N"
+      "$nocull" "1"
+
+
+	"$phong" "1"                      
+	"$phongboost" "0.6"                  
+	"$phongfresnelranges"         "[1 4 6]"             
+	"$phongtint"                  "[.8 .8 1]"            
+	"$normalmapalphaphongmask" "1"                      
+
+
+     
+	"$envmaptint"                 "[.1 .1 .1]"     
+	"$normalmapalphaenvmapmask" "1"
+}

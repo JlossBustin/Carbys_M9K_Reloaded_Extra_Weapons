@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models/drgordon/weapons/bocw_shared/optic_holo_decals"
+
+	"$translucent" "1"
+}

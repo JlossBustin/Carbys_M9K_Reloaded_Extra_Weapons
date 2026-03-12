@@ -1,0 +1,10 @@
+"UnlitGeneric"
+{
+	"$additive" "1"
+	"$basetexture" "fx/sp01_glow"
+	"$nofog" "1"
+	"$ignorez" "1"
+	"$noz"	"1"
+	"$vertexcolor" "1"
+	"$vertexalpha" "1"
+}

@@ -1,0 +1,17 @@
+"VertexLitGeneric"
+{
+	"$basetexture" 			"models/v_models/weapons/fmg9/smg36_d"
+	"$bumpmap" 			"models/v_models/weapons/fmg9/smg36_d_n"
+	"$phongexponenttexture"         	"models/v_models/weapons/fmg9/smg36_d_e"
+	"$envmap" 			"env_cubemap"
+	"$normalmapalphaenvmapmask" 	"1"
+        	"$envmapfresnel" 			"1"
+        	"$envmapfresnelminmaxexp"		"[0 .4 1]"
+        	"$envmaptint" 			"[.02 .022 .024]"
+        	"$phong" 			"1"
+        	"$phongboost" 			"1.5"
+        	"$phongalbedotint"			"1"
+        	"$phongalbedoboost"		"33"
+        	"$phongfresnelranges" 		"[1.7 3.2 6.6]"
+	"$ambientocclusion" 		"1"
+}

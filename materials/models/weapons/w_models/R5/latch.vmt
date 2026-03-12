@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture"	"models/weapons/v_models/R5/Latch"
+	"$bumpmap"	 	"models/weapons/v_models/R5/Latch_nm"
+	"$color" "[1 1 1]"
+
+	"$normalmapalphaenvmapmask" "1"
+
+	"$phong" "1"
+	"$phongtint" "[.7 .8 1]"
+	"$phongexponent" "25"
+	"$phongboost" "1.3"
+	"$phongfresnelranges" "[.25 .5 2]"
+
+	"$envmap" "env_cubemap"
+	"$envmapfresnel" "1"
+	"$envmaptint" "[.03 .03 .03]"
+}

@@ -1,0 +1,18 @@
+
+"VertexLitGeneric"
+{
+	"$basetexture" "models/v_models/weapons/fmg9/flash"
+        "$bumpmap" "models/v_models/weapons/fmg9/flash_n"
+        "$phongexponenttexture" "models/v_models/weapons/fmg9/flash_e"
+        "$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" 	"1"
+        "$envmapfresnel" 			"1"
+        "$envmapfresnelminmaxexp"		"[1 1 1]"
+        "$envmaptint" "[.05 .05 .05]"
+        "$phong" 		"1"
+        "$phongalbedotint"			"1"
+        "$phongalbedoboost"			"25"
+        "$phongboost" "33"
+        "$phongfresnelranges" "[1.5 4.8 7.9]"
+        "$nocull" "1"
+}

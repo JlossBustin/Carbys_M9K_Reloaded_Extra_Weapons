@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+    "$basetexture" "models\weapons\mwiii_renetti\xmaterial_8ff98822854d709_rgb"
+    "$bumpmap" "models\weapons\mwiii_renetti\xmaterial_8ff98822854d709_n"
+    "$phongexponenttexture" "models\weapons\mwiii_renetti\xmaterial_8ff98822854d709_e"
+	"$phongwarptexture"			"phongwarp_metal2"
+
+    "$color2" "[ .35 .35 .35 ]"
+    "$blendtintbybasealpha" "1"
+
+    "$phong" "1"
+    "$phongboost" "1"
+    "$phongfresnelranges" "[1 0.5 0]"
+    "$phongalbedotint" "0"
+
+    //rimlight doesn't properly show in hlmv, make sure you're changing these values in game
+    "$rimlight" "1"
+    "$rimlightexponent" "50"
+    "$rimmask" "1"
+    "$rimlightboost" "1"
+
+    "$normalmapalphaenvmapmask" "0"
+    "$envmapfresnel" ".6"
+    "$envmap" "env_cubemap"
+    "$envmaptint" "[ .45 .45 .45 ]"
+}

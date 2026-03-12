@@ -1,0 +1,28 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/p320/Diffuse"
+	"$bumpmap" "models/weapons/v_models/p320/Normal"
+	"$phongexponenttexture" "models/weapons/v_models/p320/Glossiness"
+
+	"$color2" "[0.7 0.7 0.7]"
+
+	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongalbedotint" "1"
+	"$phongboost"	"10"
+	"$phongfresnelranges" "[1 1 1]"
+	"$phongdisablehalflambert" "1"
+
+	//"$halflambert" "1"
+	"$ambientocclusion" "1"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[0.05 0.05 0.05]"
+	"$envmapfresnel" "1"
+
+	"$detail" 		"models/weapons/v_models/p320/mask"
+	"$detailscale" 			  	"1"
+	"$detailblendfactor" 	  	"1.0"
+	"$detailblendmode" 		   	"5"
+}

@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models\weapons\tfa_doi\sten\weapon_sten_attachments_dm"
+	"$bumpmap"						"models\weapons\tfa_doi\sten\weapon_sten_attachments_nm"
+	"$phongexponenttexture"			"models\weapons\tfa_doi\sten\weapon_sten_attachments_ex"
+
+	"$color2"						"[3 3 3]"
+
+	"$phong"						"1"
+	"$phongexponent"				"16"
+	"$phongboost"					"1"
+	"$phongfresnelranges"			"[0.2 0.5 1]"
+}

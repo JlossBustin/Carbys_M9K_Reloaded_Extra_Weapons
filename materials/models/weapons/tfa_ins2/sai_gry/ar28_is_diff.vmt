@@ -1,0 +1,20 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/weapons/tfa_ins2/sai_gry/ar28_is/dif"
+	"$bumpmap" "models/weapons/tfa_ins2/sai_gry/ar28_is/norm"
+
+	"$phongexponenttexture" "models/weapons/tfa_ins2/sai_gry/ar28_is/mask"
+
+	"$selfillum" "1"
+
+	"$phong" "1"
+	"$phongboost"	"8"
+
+	"$phongfresnelranges"	"[0.0 0.15 0.95]"
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask"		"1"
+	"$envmapfresnel"	"1"
+
+	"$envmaptint"		"[0.2 0.2 0.2]"
+}

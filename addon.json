@@ -1,0 +1,18 @@
+{
+	"title": "Carby's M9K Reloaded - Extra Weapons",
+	"type": "weapon",
+	"tags": [
+		"weapon",
+		"fun",
+		"roleplay"
+	],
+	"ignore": [
+		"*.psd",
+		"*.blend",
+		"*.tga",
+		"*.xcf",
+		".git/*",
+		".vscode/*",
+		".claude/*"
+	]
+}

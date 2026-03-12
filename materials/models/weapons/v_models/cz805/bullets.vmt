@@ -1,0 +1,28 @@
+//if you don't know what a parameter does, visit:
+//https://developer.valvesoftware.com/wiki/$phong
+"VertexLitGeneric"
+{
+    "$basetexture" "models\weapons\v_models\cz805\ar37_diff"
+    "$bumpmap" "models\weapons\v_models\cz805\ar37_ddn"
+    "$phongexponenttexture" "models\weapons\v_models\cz805\ar37_spec"
+
+	"$normalmapalphaenvmapmask" "0" 
+	"$nocull" "1" 
+	"$color2" "[ .45 .45 .45 ]" 
+	"$phong" "1" 
+	"$phongboost" "20" 
+	"$phongexponent" "10" 
+	"$phongalbedotint" "1"
+	"$PhongFresnelRanges" "[ 2 4 6 ]" 
+	"$envmap" "env_cubemap" 
+	"$envmapfresnel" "0.3" 
+	"$envmaptint" "[ .035 .035 .035 ]" 
+	"Proxies"
+	{
+		"MwEnvMapTint"
+		{
+			"min" "0"
+			"max" "0.050"
+		}
+	}
+}

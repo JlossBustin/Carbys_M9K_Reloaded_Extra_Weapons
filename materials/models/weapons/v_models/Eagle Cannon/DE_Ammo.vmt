@@ -1,0 +1,15 @@
+//shrimp was here
+
+"VertexLitGeneric"
+{
+	"$basetexture"			"models/weapons/v_models/Eagle Cannon/AmmoBox_50AE_LP_Ammo_50AE_BaseColor.vtf"
+	"$bumpmap"			"models/weapons/v_models/Eagle Cannon/AmmoBox_50AE_LP_Ammo_50AE_normal.vtf"
+	"$phongexponenttexture"		"models/weapons/v_models/Eagle Cannon/AmmoBox_50AE_LP_Ammo_50AE_exponent.vtf"
+	"$color2"					"[0.45 0.45 0.45]"
+	"$phong"					"1"
+	"$phongboost"				"5"
+	"$phongfresnelranges"		"[0.25 0.4 1]"
+	"$phongalbedotint"			"1"
+	"$envmap"					"env_cubemap"
+	"$envmaptint"				"[0.588 0.294 0.0]"
+}

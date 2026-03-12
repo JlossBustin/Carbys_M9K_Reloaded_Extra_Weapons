@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	$basetexture "models/tfa_pds/falcon2/culasse"
+	$color2 "[0.7 0.7 0.7]"
+	$bumpmap "null-bumpmap"
+	$phongexponenttexture "models/tfa_pds/falcon2/culasse_g"
+
+
+	$phong 	1
+	$basemapalphaphongmask 1
+	$phongboost		 "4"
+	$phongfresnelranges	 "[0.4 0.6 1.0]"
+	$phongalbedotint "1"
+}

@@ -1,0 +1,7 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/hud/m9kr_beretta_mx4"
+	"$translucent" 1
+	"$vertexcolor" 1
+	"$vertexalpha" 1
+}

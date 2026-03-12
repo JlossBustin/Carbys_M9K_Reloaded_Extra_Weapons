@@ -1,0 +1,35 @@
+VertexLitGeneric
+{
+"$basetexture" "models\weapons\v_models\ar36\ar36_DIFF"
+"$bumpmap" "models\weapons\v_models\ar36\ar36_DDN"
+"$PhongExponentTexture" "models\weapons\v_models\ar36\ar36_SPEC"
+
+	"$nocull" "1"
+	"$color" 			"[.94 .96 .96] "
+	"$halflambert" 			"1"
+	
+	"$normalmapalphaenvmapmask" 	"1"
+	"$normalmapalphaphongmask"    	"1"
+	
+	
+
+	"$phong"  				"1"
+	"$phongexponent" 		"30"
+	
+	"$phongboost" 			"1.5"
+	"$phongfresnelranges" 	"[.6 1.2 3.2]"
+	"$phongtint"            "[1 1 1]"
+	"$phongalbedotint" 		"1"	
+	
+ 	"$envmap" 					 	"env_cubemap"
+    	"$envmaptint"				 	"[0.005 0.005 0.005]"  
+	 $envmapfresnel "1" // Advanced envmap reflections
+	
+	
+	$rimlight               1
+	$rimlightexponent       250
+	$rimlightboost          .02	
+	$rimmask 				1
+
+
+}

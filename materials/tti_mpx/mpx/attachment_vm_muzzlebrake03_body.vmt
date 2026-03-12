@@ -1,0 +1,29 @@
+"VertexlitGeneric"
+{
+	"$basetexture"			"TTI_MPX\mpx\attachment_vm_muzzlebrake03_body"
+	"$bumpmap"				"TTI_MPX\mpx\NRM\attachment_vm_muzzlebrake03_body_n" 
+	"$phongexponenttexture"	"TTI_MPX\mpx\SPE\attachment_vm_muzzlebrake03_body_m"
+	
+	$phong	"1"
+	$phongboost	"5"
+	$phongfresnelranges	"[.78 .9 1]"
+
+	$envmap	"env_cubemap"
+	$envmaptint	"[.25 .25 .25]"
+	$normalmapalphaenvmapmask	"1"
+	$envmapfresnel	"1"
+
+	$rimlight	"0"
+	$rimmask	"1"
+	$rimlightboost	"1"
+	$rimlightexponent	"2"
+	
+	"Proxies"
+	{
+		"MwEnvMapTint"
+		{
+			"min" "0"
+			"max" "0.5"
+		}
+	}
+}

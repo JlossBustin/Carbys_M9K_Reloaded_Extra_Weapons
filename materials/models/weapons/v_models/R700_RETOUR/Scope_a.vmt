@@ -1,0 +1,21 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/weapons/v_models/R700_RETOUR/Scope_a"
+        "$bumpmap"       "models/weapons/v_models/R700_RETOUR/Scope_n"
+      "$nocull" "1"
+	"$phongexponenttexture" 	"models/weapons/v_models/R700_RETOUR/Scope_s"
+     	"$normalmapalphaenvmapmask" "1"
+	"$color"			"[1 1 1]"
+        "$envmap" 			"env_cubemap"
+	"$envmaptint" 			"[.004 .004 .004]"
+        "$phongalbedotint" "1"	
+	"$phongtint"			"[.6 .8 1]"
+        "$phongalbedoboost" "0.28"
+	"$phong" 			"1"
+	"$phongboost" 			"0.4"
+	"$phongfresnelranges"		"[0.1 0.4 .8]"
+	"$halflambert"			"1"
+   
+      
+	
+}

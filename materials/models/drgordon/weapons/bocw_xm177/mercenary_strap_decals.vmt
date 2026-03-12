@@ -1,0 +1,18 @@
+"VertexLitGeneric"
+{
+	"$basetexture"					"models/drgordon/weapons/bocw_xm177/mercenary_strap_decals"
+	"$bumpmap"					"models/drgordon/weapons/bocw_xm177/mercenary_strap_decals_n"
+
+	"$phong"	"1"
+	"$phongexponent"	"2"
+	"$phongalbedotint"	"1"
+	"$phongboost"	"0.05"
+	"$phongfresnelranges"	"[1 1 1]"
+        "$phongdisablehalflambert"  "1"
+
+        "$alphatest"  "1"
+
+        "$halflambert"                 "0"
+        "$nodecal"                     "0"
+        "$ambientocclusion"         "1"
+}

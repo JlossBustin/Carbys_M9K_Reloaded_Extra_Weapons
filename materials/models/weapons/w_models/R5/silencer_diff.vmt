@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models/weapons/v_models/R5/silencer_diff"
+"$bumpmap" "models/weapons/v_models/R5/silencer_normal"
+"$phongexponenttexture" "models/weapons/v_models/R5/silencer_exp"
+"$envmap"                        "env_cubemap"           
+"$envmaptint"                    "[.02 .02 .02]" 
+"$normalmapalphaenvmapmask"      "1"  
+"$phong"                         "1"                      
+"$phongboost"                    "2"            
+"$phongfresnelranges"            "[1 4 6]"              
+"$phongtint"                  "[1 1.2 1.5]"
+"$phongalbedotint"			"1"
+"$phongalbedoboost"			"20"
+"$rimlight" 	 "1"
+"$rimlightboost"	".6"
+"$rimlightexponent" 	"25"	
+"$rimmask"  "1"    
+"$nocull" "1"
+"$halflambert" 	   "1" 
+
+}

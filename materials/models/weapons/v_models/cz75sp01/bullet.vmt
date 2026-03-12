@@ -1,0 +1,21 @@
+//VMT written by 4Echo
+"Vertexlitgeneric"
+{
+	$basetexture                "models\weapons\v_models\cz75sp01\Bullet_diffuse"
+	$bumpmap                    "models\weapons\v_models\cz75sp01\Bullet_normal"
+
+	$phong                      1
+	$phongboost                 5
+	$phongfresnelranges         "[5 10 10]"
+	"$phongalbedotint"		"1"
+	"$phongalbedoboost" 	"48"
+	$phongexponenttexture       "models\weapons\v_models\cz75sp01\Bullet_exponent"
+	$normalmapalphaphongmask    1
+
+	$envmap                     env_cubemap
+	$envmaptint                 "[.055 .055 .085]"
+	$basetexturealphaenvmapmask   1
+
+	$nocull 		"1"
+
+}

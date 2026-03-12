@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture"				"models\joe\jackal\tex_jackal"
+	"$bumpmap"					"models\joe\jackal\tex_jackal_bump"
+	"$color"					"[0 0 0]"
+	"$phong"					"0"
+	"$phongexponent"			"40"
+	"$phongboost"				"0.55"
+	"$phongfresnelranges"		"[1.5 2.5 7]"
+	"$phongtint"				"[0.3 0.3 0.3]"
+	"$phongalbedotint"			"1"
+
+
+
+}

@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\weapons\v_models\WangXm8_M4a1\visier"
+	"$additive" 1
+	"$selfillum" 1
+}

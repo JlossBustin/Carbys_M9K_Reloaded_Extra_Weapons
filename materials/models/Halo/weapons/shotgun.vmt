@@ -1,0 +1,21 @@
+    "VertexLitGeneric"
+    {
+   "$basetexture" "models\Halo\Weapons\shotgun"
+   "$bumpmap" "models\Halo\Weapons\shotgun_bump"
+			
+	$detail "models\Halo\detail_metal"
+	$detailscale 7
+	$detailblendfactor 1
+    $phong 1
+	// $phongexponent 7
+	$phongexponenttexture "models/halo/halosp"
+	$phongboost	40
+	$phongalbedotint 1
+	$phongfresnelranges	"[1 1 1]"
+	$selfillum 1
+	$selfillumtint "[2 2 2]"
+	$selfillummask "models/halo/weapons/shotgun_ilum"
+	$rimlight 1
+	$rimlightexponent 50
+	$rimlightboost 0.5
+}
